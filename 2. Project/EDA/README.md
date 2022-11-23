@@ -1,1 +1,0 @@
-Web scraping ile Trendyol.com'dan çektiğim 4934 satırlık veri setini keşifsel veri analizi çalışması yaparak, laptop fiyatlarını tahminleyebilmek için bir regresyon modeli üretebileceğim hale getirdim.
